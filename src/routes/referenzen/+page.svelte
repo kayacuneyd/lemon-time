@@ -73,16 +73,18 @@
 	</div>
 </section>
 
-<section class="bg-brand-secondary py-16 text-neutral-50 sm:py-24">
+<section class="bg-brand-primary/10 py-16 text-brand-secondary dark:bg-brand-dark sm:py-24">
 	<div class="container space-y-10">
 		<div class="flex flex-col gap-3 text-center">
-			<h2 class="text-3xl font-semibold md:text-4xl">Stimmen unserer Kund:innen</h2>
+			<h2 class="text-3xl font-semibold text-brand-secondary dark:text-neutral-50 md:text-4xl">
+				Stimmen unserer Kund:innen
+			</h2>
 		</div>
 		<div class="grid gap-6 md:grid-cols-2">
 			{#each $references.testimonials as testimonial (testimonial.name)}
-				<blockquote class="rounded-4xl border border-neutral-100/10 bg-white/5 p-8 shadow-card backdrop-blur">
-					<p class="text-lg font-medium text-neutral-50/90">“{testimonial.quote}”</p>
-					<footer class="mt-4 text-sm text-neutral-100/80">
+				<blockquote class="rounded-4xl border border-white/40 bg-white/70 p-8 shadow-card backdrop-blur dark:border-brand-primary/20 dark:bg-brand-dark/60">
+					<p class="text-lg font-medium text-brand-secondary/90 dark:text-neutral-50">“{testimonial.quote}”</p>
+					<footer class="mt-4 text-sm text-brand-secondary/70 dark:text-neutral-200">
 						<strong>{testimonial.name}</strong>, {testimonial.role} · {testimonial.client}
 					</footer>
 				</blockquote>
@@ -90,4 +92,3 @@
 		</div>
 	</div>
 </section>
-

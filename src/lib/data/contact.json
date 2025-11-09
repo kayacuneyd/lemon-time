@@ -19,22 +19,31 @@
 		},
 		"locations": [
 			{
-				"id": "frankfurt",
-				"name": "Head Office Frankfurt",
-				"address": "Hanauer Landstraße 204, 60314 Frankfurt am Main",
-				"phone": "+49 69 123 456 70",
+				"id": "cologne",
+				"name": "Head Office Köln",
+				"address": "Maybach Str. 109, 50670 Köln",
+				"phone": "+49 221 97 76 47 70",
 				"email": "hello@lemon-time.com",
 				"hours": "Montag bis Freitag, 09:00 – 18:00 Uhr",
-				"map": { "lat": 50.1115, "lng": 8.7207, "zoom": 14 }
+				"map": { "lat": 50.9529, "lng": 6.9449, "zoom": 14 }
 			},
 			{
 				"id": "istanbul",
-				"name": "Projektbüro Istanbul",
-				"address": "Kemankeş Karamustafa Paşa Mah. 12, 34425 İstanbul",
-				"phone": "+90 212 555 67 89",
+				"name": "Studio Istanbul",
+				"address": "Alay Emini Sk. Alay Beyi Çıkmazı No: 6, 34345 Kuruçeşme Istanbul",
+				"phone": "+90 212 265 65 01",
 				"email": "istanbul@lemon-time.com",
 				"hours": "Montag bis Freitag, 10:00 – 19:00 Uhr",
-				"map": { "lat": 41.0242, "lng": 28.9784, "zoom": 13 }
+				"map": { "lat": 41.0672, "lng": 29.041, "zoom": 13 }
+			},
+			{
+				"id": "oberursel",
+				"name": "Operations Hub Oberursel",
+				"address": "Lange Strasse 75, 61440 Oberursel",
+				"phone": "+49 617 12 08 45 63",
+				"email": "operations@lemon-time.com",
+				"hours": "Montag bis Freitag, 09:00 – 17:00 Uhr",
+				"map": { "lat": 50.206, "lng": 8.577, "zoom": 14 }
 			}
 		],
 		"meta": {
@@ -68,22 +77,31 @@
 		},
 		"locations": [
 			{
-				"id": "frankfurt",
-				"name": "Frankfurt Ofis",
-				"address": "Hanauer Landstraße 204, 60314 Frankfurt am Main",
-				"phone": "+49 69 123 456 70",
+				"id": "cologne",
+				"name": "Köln Merkez Ofis",
+				"address": "Maybach Str. 109, 50670 Köln",
+				"phone": "+49 221 97 76 47 70",
 				"email": "hello@lemon-time.com",
 				"hours": "Pazartesi – Cuma, 09:00 – 18:00",
-				"map": { "lat": 50.1115, "lng": 8.7207, "zoom": 14 }
+				"map": { "lat": 50.9529, "lng": 6.9449, "zoom": 14 }
 			},
 			{
 				"id": "istanbul",
-				"name": "İstanbul Proje Ofisi",
-				"address": "Kemankeş Karamustafa Paşa Mah. 12, 34425 İstanbul",
-				"phone": "+90 212 555 67 89",
+				"name": "İstanbul Stüdyo",
+				"address": "Alay Emini Sk. Alay Beyi Çıkmazı No: 6, 34345 Kuruçeşme İstanbul",
+				"phone": "+90 212 265 65 01",
 				"email": "istanbul@lemon-time.com",
 				"hours": "Pazartesi – Cuma, 10:00 – 19:00",
-				"map": { "lat": 41.0242, "lng": 28.9784, "zoom": 13 }
+				"map": { "lat": 41.0672, "lng": 29.041, "zoom": 13 }
+			},
+			{
+				"id": "oberursel",
+				"name": "Oberursel Operasyon Merkezi",
+				"address": "Lange Strasse 75, 61440 Oberursel",
+				"phone": "+49 617 12 08 45 63",
+				"email": "operations@lemon-time.com",
+				"hours": "Pazartesi – Cuma, 09:00 – 17:00",
+				"map": { "lat": 50.206, "lng": 8.577, "zoom": 14 }
 			}
 		],
 		"meta": {
@@ -117,22 +135,31 @@
 		},
 		"locations": [
 			{
-				"id": "frankfurt",
-				"name": "Frankfurt HQ",
-				"address": "Hanauer Landstraße 204, 60314 Frankfurt am Main, Germany",
-				"phone": "+49 69 123 456 70",
+				"id": "cologne",
+				"name": "Cologne HQ",
+				"address": "Maybach Str. 109, 50670 Cologne, Germany",
+				"phone": "+49 221 97 76 47 70",
 				"email": "hello@lemon-time.com",
 				"hours": "Mon–Fri, 09:00 – 18:00 CET",
-				"map": { "lat": 50.1115, "lng": 8.7207, "zoom": 14 }
+				"map": { "lat": 50.9529, "lng": 6.9449, "zoom": 14 }
 			},
 			{
 				"id": "istanbul",
-				"name": "Istanbul Project Hub",
-				"address": "Kemankeş Karamustafa Paşa Mah. 12, 34425 Istanbul, Türkiye",
-				"phone": "+90 212 555 67 89",
+				"name": "Istanbul Studio",
+				"address": "Alay Emini Sk. Alay Beyi Çıkmazı No: 6, 34345 Kuruçeşme Istanbul, Türkiye",
+				"phone": "+90 212 265 65 01",
 				"email": "istanbul@lemon-time.com",
 				"hours": "Mon–Fri, 10:00 – 19:00 TRT",
-				"map": { "lat": 41.0242, "lng": 28.9784, "zoom": 13 }
+				"map": { "lat": 41.0672, "lng": 29.041, "zoom": 13 }
+			},
+			{
+				"id": "oberursel",
+				"name": "Oberursel Ops Hub",
+				"address": "Lange Strasse 75, 61440 Oberursel, Germany",
+				"phone": "+49 617 12 08 45 63",
+				"email": "operations@lemon-time.com",
+				"hours": "Mon–Fri, 09:00 – 17:00 CET",
+				"map": { "lat": 50.206, "lng": 8.577, "zoom": 14 }
 			}
 		],
 		"meta": {

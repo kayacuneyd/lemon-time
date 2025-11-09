@@ -45,14 +45,49 @@
 		<div class="relative flex justify-center">
 			<div class="relative aspect-square w-full max-w-[440px]">
 				<div class="absolute -inset-6 rounded-[50%] bg-gradient-to-br from-brand-primary/70 via-brand-primary/30 to-brand-secondary/50 blur-3xl dark:from-brand-primary/40 dark:via-brand-secondary/30 dark:to-brand-primary/30"></div>
-				<div class="relative flex h-full w-full items-center justify-center rounded-[40%] border border-brand-secondary/10 bg-gradient-to-br from-brand-primary/25 via-brand-primary/5 to-brand-secondary/20 p-10 shadow-card dark:border-brand-primary/25 dark:from-brand-primary/20 dark:via-brand-secondary/20 dark:to-brand-primary/15">
-					<div class="absolute inset-8 rounded-[45%] border border-white/15 bg-gradient-to-br from-brand-primary/40 via-transparent to-brand-secondary/10 blur-[1px] dark:border-brand-primary/30"></div>
-					<div class="relative flex h-full w-full items-center justify-center">
-						<div class="flex h-28 w-28 items-center justify-center rounded-full border border-white/40 bg-white/90 p-5 shadow-2xl backdrop-blur dark:border-brand-primary/40 dark:bg-brand-dark/80">
-							<img src={brand.logo.src} alt={brand.logo.alt} class="h-full w-full object-contain" loading="lazy" />
+				<div class="relative flex h-full w-full flex-col items-center justify-center gap-6">
+					<div class="hero-lemon-wrapper">
+						<svg
+							class="hero-lemon"
+							viewBox="0 0 200 140"
+							role="presentation"
+							aria-hidden="true"
+						>
+							<defs>
+								<linearGradient id="lemonFill" x1="0%" y1="0%" x2="100%" y2="100%">
+									<stop offset="0%" stop-color="#fdf6aa" />
+									<stop offset="60%" stop-color="#f2d84c" />
+									<stop offset="100%" stop-color="#c8e86d" />
+								</linearGradient>
+								<linearGradient id="lemonStroke" x1="0%" y1="0%" x2="100%" y2="100%">
+									<stop offset="0%" stop-color="#fff8c4" />
+									<stop offset="100%" stop-color="#b0c63c" />
+								</linearGradient>
+							</defs>
+							<path
+								d="M130 10c-20-8-35-10-50-8-15-2-30 0-50 8C10 25 2 45 2 70s8 45 28 60c20 8 35 10 50 8 15 2 30 0 50-8 20-15 28-35 28-60s-8-45-28-60Z"
+								fill="url(#lemonFill)"
+								stroke="url(#lemonStroke)"
+								stroke-width="5"
+							/>
+							<path
+								class="hero-lemon-pulse"
+								d="M130 10c-20-8-35-10-50-8-15-2-30 0-50 8C10 25 2 45 2 70s8 45 28 60c20 8 35 10 50 8 15 2 30 0 50-8 20-15 28-35 28-60s-8-45-28-60Z"
+								fill="none"
+								stroke="rgba(255,255,255,0.35)"
+								stroke-width="2"
+							/>
+						</svg>
+						<div class="hero-lemon-logo">
+							<img src={brand.logo.src} alt={brand.logo.alt} loading="lazy" />
 						</div>
 					</div>
-
+					<div class="pointer-events-none rounded-3xl border border-white/25 bg-white/85 px-6 py-4 text-left text-sm font-semibold text-brand-secondary shadow-lg backdrop-blur dark:border-brand-primary/30 dark:bg-brand-dark/80 dark:text-neutral-50">
+						<p class="text-xs font-medium uppercase tracking-[0.35em] text-brand-secondary/70 dark:text-neutral-200/80">
+							{$home.hero.visual.highlight}
+						</p>
+						<p>{$home.hero.visual.caption}</p>
+					</div>
 				</div>
 			</div>
 		</div>

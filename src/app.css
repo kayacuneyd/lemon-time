@@ -41,6 +41,32 @@
 		@apply rounded-4xl border border-brand-secondary/10 bg-surface p-6 shadow-card transition-transform duration-300 ease-smooth-out hover:-translate-y-1 dark:border-brand-primary/20 dark:bg-brand-dark/60;
 	}
 
+	.hero-lemon-wrapper {
+		@apply relative flex items-center justify-center;
+		width: min(260px, 70vw);
+	}
+
+	.hero-lemon {
+		width: 100%;
+		height: auto;
+		filter: drop-shadow(0 25px 45px rgba(26, 47, 75, 0.25));
+		animation: lemonBeat 4s ease-in-out infinite;
+	}
+
+	.hero-lemon-pulse {
+		animation: lemonPulse 4s ease-in-out infinite;
+	}
+
+	.hero-lemon-logo {
+		@apply absolute flex items-center justify-center rounded-full border border-white/50 bg-white/90 p-4 shadow-2xl backdrop-blur dark:border-brand-primary/50 dark:bg-brand-dark/90;
+		width: 6rem;
+		height: 6rem;
+	}
+
+	.hero-lemon-logo img {
+		@apply h-full w-full object-contain;
+	}
+
 	.btn-primary {
 		@apply inline-flex items-center justify-center gap-2 rounded-full bg-gradient-to-r from-brand-secondary to-[#0d1a2d] px-6 py-3 text-base font-semibold text-neutral-50 shadow-card transition focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand-accent focus-visible:ring-offset-2 focus-visible:ring-offset-surface dark:from-brand-secondary dark:to-[#14263f];
 		box-shadow: 0 20px 35px rgba(15, 32, 54, 0.35);
@@ -58,6 +84,26 @@
 	.neon-heading {
 		text-shadow: 0 0 12px rgba(255, 255, 255, 0.6), 0 0 32px rgba(255, 215, 0, 0.4), 0 0 48px rgba(169, 196, 71, 0.35);
 		animation: neonPulse 4s ease-in-out infinite;
+	}
+
+	@keyframes lemonBeat {
+		0%,
+		100% {
+			transform: scale(1);
+		}
+		50% {
+			transform: scale(1.04);
+		}
+	}
+
+	@keyframes lemonPulse {
+		0%,
+		100% {
+			opacity: 0.2;
+		}
+		50% {
+			opacity: 0.65;
+		}
 	}
 
 	@keyframes neonPulse {

@@ -13,7 +13,9 @@
 	<div class="container grid gap-10 py-12 md:grid-cols-2 lg:grid-cols-4">
 		<div class="space-y-4">
 			<div class="flex items-center gap-3 text-xl font-semibold">
-				<img src={brand.logo.src} alt={brand.logo.alt} class="h-10 w-auto" loading="lazy" />
+				<div class="rounded-full border border-white/10 bg-white/15 p-2 shadow-lg backdrop-blur">
+					<img src={brand.logo.src} alt={brand.logo.alt} class="h-10 w-auto mix-blend-normal" loading="lazy" />
+				</div>
 				<span>{brand.name}</span>
 			</div>
 			<p class="text-sm text-neutral-100/90">

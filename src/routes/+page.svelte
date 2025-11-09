@@ -55,13 +55,7 @@
 							decoding="async"
 						/>
 					</div>
-					<div class="hero-lemon__shadow" aria-hidden="true"></div>
-					<div class="pointer-events-none rounded-3xl border border-white/25 bg-white/85 px-6 py-4 text-left text-sm font-semibold text-brand-secondary shadow-lg backdrop-blur dark:border-brand-primary/30 dark:bg-brand-dark/80 dark:text-neutral-50">
-						<p class="text-xs font-medium uppercase tracking-[0.35em] text-brand-secondary/70 dark:text-neutral-200/80">
-							{$home.hero.visual.highlight}
-						</p>
-						<p>{$home.hero.visual.caption}</p>
-					</div>
+
 				</div>
 			</div>
 		</div>

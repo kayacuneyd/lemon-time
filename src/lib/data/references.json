@@ -1,0 +1,222 @@
+{
+	"de": {
+		"intro": {
+			"title": "Ausgewählte Arbeiten",
+			"description": "Hier zeigen wir Projekte, in denen wir Marken mit der türkischen Community in Europa vernetzt haben. Jede Fallstudie verdeutlicht unsere Kombination aus Strategie, Kreativität und kultureller Nähe."
+		},
+		"filters": [
+			{ "id": "all", "label": "Alle Branchen" },
+			{ "id": "fmcg", "label": "FMCG & Handel" },
+			{ "id": "telecom", "label": "Telekommunikation" },
+			{ "id": "finance", "label": "Finanzdienstleistungen" },
+			{ "id": "culture", "label": "Kultur & Veranstaltungen" }
+		],
+		"logos": [
+			{ "name": "Anadolu Bank", "industry": "finance", "year": "2024" },
+			{ "name": "Turkcell Europe", "industry": "telecom", "year": "2023" },
+			{ "name": "NIVEA", "industry": "fmcg", "year": "2022" },
+			{ "name": "Migros", "industry": "fmcg", "year": "2023" },
+			{ "name": "Türk Telekom", "industry": "telecom", "year": "2021" },
+			{ "name": "Ülker", "industry": "fmcg", "year": "2020" }
+		],
+		"cases": [
+			{
+				"id": "turkcell-community",
+				"client": "Turkcell Europe",
+				"industry": "Telekommunikation",
+				"year": "2023",
+				"summary": "Launch einer neuen Tarifwelt für in Deutschland geborene Türk:innen mit Fokus auf digitale Kanäle und Community-Botschafter:innen.",
+				"highlights": [
+					"Entwicklung eines Community Personas Frameworks",
+					"Always-on Social Media & Creator Programm mit 18 Talents",
+					"DACH-weites Media-Mix aus Bewegtbild, Digital Audio und OOH"
+				]
+			},
+			{
+				"id": "nivea-ramadan",
+				"client": "NIVEA",
+				"industry": "FMCG / Beauty",
+				"year": "2022",
+				"summary": "Ramadan-Kampagne mit Fokus auf Self-Care-Routinen, Content Creator und POS-Aktivierungen.",
+				"highlights": [
+					"Storytelling-Serie \"Momente der Verbundenheit\"",
+					"Custom Content für dm und Rossmann Türkçe Regale",
+					"Community Sampling über Moscheen und Kulturvereine"
+				]
+			},
+			{
+				"id": "anadolu-digital",
+				"client": "Anadolu Bank",
+				"industry": "Finanzdienstleistungen",
+				"year": "2024",
+				"summary": "Digitale Kampagne für das neue Mobile-Banking-Angebot mit Fokus auf Vertrauen und Nähe.",
+				"highlights": [
+					"Kund:innen-Interviews & Insight-Report",
+					"Multilinguale Video- und Audioassets",
+					"Lead-Kampagne mit +36 % Conversion-Rate"
+				]
+			}
+		],
+		"testimonials": [
+			{
+				"quote": "Lemon-Time ist für uns mehr als eine Agentur – sie denken wie wir und verstehen unsere Kund:innen. Die Kampagnenresultate sprechen für sich.",
+				"name": "Melike Kaya",
+				"role": "Head of Marketing",
+				"client": "Turkcell Europe"
+			},
+			{
+				"quote": "Das Team hat uns geholfen, Ramadan mit Sensibilität und Relevanz zu inszenieren. Wir haben neue Zielgruppen gewonnen und viel positives Feedback erhalten.",
+				"name": "Janina Schmitz",
+				"role": "Brand Manager",
+				"client": "NIVEA Deutschland"
+			}
+		]
+	},
+	"tr": {
+		"intro": {
+			"title": "Projelerimiz",
+			"description": "Avrupa’daki Türk topluluğuna yönelik gerçekleştirdiğimiz çalışmalardan bazı sosyal, kültürel ve ticari başarı hikâyeleri."
+		},
+		"filters": [
+			{ "id": "all", "label": "Tümü" },
+			{ "id": "fmcg", "label": "Hızlı tüketim" },
+			{ "id": "telecom", "label": "Telekom" },
+			{ "id": "finance", "label": "Finans" },
+			{ "id": "culture", "label": "Kültür" }
+		],
+		"logos": [
+			{ "name": "Anadolu Bank", "industry": "finance", "year": "2024" },
+			{ "name": "Turkcell Europe", "industry": "telecom", "year": "2023" },
+			{ "name": "NIVEA", "industry": "fmcg", "year": "2022" },
+			{ "name": "Migros", "industry": "fmcg", "year": "2023" },
+			{ "name": "Türk Telekom", "industry": "telecom", "year": "2021" },
+			{ "name": "Ülker", "industry": "fmcg", "year": "2020" }
+		],
+		"cases": [
+			{
+				"id": "turkcell-community",
+				"client": "Turkcell Europe",
+				"industry": "Telekom",
+				"year": "2023",
+				"summary": "Almanya’da doğan genç Türkler için dijital odaklı kampanya ve topluluk elçileri programı.",
+				"highlights": [
+					"Topluluk persona framework",
+					"18 içerik üreticisiyle daimi sosyal program",
+					"Video, dijital ses ve OOH kombinasyonu"
+				]
+			},
+			{
+				"id": "nivea-ramadan",
+				"client": "NIVEA",
+				"industry": "FMCG / Güzellik",
+				"year": "2022",
+				"summary": "Ramazan dönemine özel öz bakım hikâyeleri, influencer içerikleri ve mağaza içi aktivasyonlar.",
+				"highlights": [
+					"\"Bağ Kurduğumuz Anlar\" hikâye serisi",
+					"dm ve Rossmann Türkçe rafları için özel içerikler",
+					"Cami ve derneklerle numune dağıtımı"
+				]
+			},
+			{
+				"id": "anadolu-digital",
+				"client": "Anadolu Bank",
+				"industry": "Finans",
+				"year": "2024",
+				"summary": "Yeni mobil bankacılık ürünü için güven temelli dijital lansman.",
+				"highlights": [
+					"Müşteri görüşmeleri ve insight raporu",
+					"Çok dilli video ve ses varlıkları",
+					"%36 daha yüksek dönüşüm oranı"
+				]
+			}
+		],
+		"testimonials": [
+			{
+				"quote": "Lemon-Time bizim için ekipten biri gibi çalışıyor. Kampanya sonuçları hedeflerimizi aştı.",
+				"name": "Melike Kaya",
+				"role": "Pazarlama Direktörü",
+				"client": "Turkcell Europe"
+			},
+			{
+				"quote": "Ramazan iletişimimizi saygılı ve etkili kıldılar. Marka seviyesi yükseldi, yeni müşteriler kazandık.",
+				"name": "Janina Schmitz",
+				"role": "Marka Müdürü",
+				"client": "NIVEA Almanya"
+			}
+		]
+	},
+	"en": {
+		"intro": {
+			"title": "Selected case studies",
+			"description": "A snapshot of collaborations that illustrate how we blend strategy, creativity, and cultural fluency to deliver growth."
+		},
+		"filters": [
+			{ "id": "all", "label": "All industries" },
+			{ "id": "fmcg", "label": "FMCG & Retail" },
+			{ "id": "telecom", "label": "Telecom" },
+			{ "id": "finance", "label": "Finance" },
+			{ "id": "culture", "label": "Culture" }
+		],
+		"logos": [
+			{ "name": "Anadolu Bank", "industry": "finance", "year": "2024" },
+			{ "name": "Turkcell Europe", "industry": "telecom", "year": "2023" },
+			{ "name": "NIVEA", "industry": "fmcg", "year": "2022" },
+			{ "name": "Migros", "industry": "fmcg", "year": "2023" },
+			{ "name": "Türk Telekom", "industry": "telecom", "year": "2021" },
+			{ "name": "Ülker", "industry": "fmcg", "year": "2020" }
+		],
+		"cases": [
+			{
+				"id": "turkcell-community",
+				"client": "Turkcell Europe",
+				"industry": "Telecommunications",
+				"year": "2023",
+				"summary": "Community-driven campaign targeting digitally native German-Turkish audiences.",
+				"highlights": [
+					"Persona playbook and customer journey design",
+					"Always-on creator ecosystem across TikTok and Instagram",
+					"Integrated media with BVOD, digital audio, and OOH"
+				]
+			},
+			{
+				"id": "nivea-ramadan",
+				"client": "NIVEA",
+				"industry": "FMCG / Beauty",
+				"year": "2022",
+				"summary": "Ramadan storytelling platform connecting self-care rituals with brand purpose.",
+				"highlights": [
+					"Hero film and modular social assets",
+					"Retail partnerships with ethnic supermarkets",
+					"Community sampling via cultural institutions"
+				]
+			},
+			{
+				"id": "anadolu-digital",
+				"client": "Anadolu Bank",
+				"industry": "Finance",
+				"year": "2024",
+				"summary": "Digital-first acquisition campaign for the new mobile banking proposition.",
+				"highlights": [
+					"Customer interviews and trust-building narrative",
+					"Multilingual creative assets across touchpoints",
+					"36% conversion uplift vs. previous campaigns"
+				]
+			}
+		],
+		"testimonials": [
+			{
+				"quote": "The Lemon-Time team understands our customers on a profound level. They are proactive, reliable, and deliver outstanding results.",
+				"name": "Melike Kaya",
+				"role": "Head of Marketing",
+				"client": "Turkcell Europe"
+			},
+			{
+				"quote": "They helped us shape a Ramadan campaign that felt genuine and inclusive. Engagement and sales exceeded our targets.",
+				"name": "Janina Schmitz",
+				"role": "Brand Manager",
+				"client": "NIVEA Germany"
+			}
+		]
+	}
+}
+

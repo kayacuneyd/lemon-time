@@ -1,0 +1,401 @@
+{
+  "de": {
+    "hero": {
+      "badge": "Cultural Strategy",
+      "title": "Marken, die diverse Communities überzeugen",
+      "subtitle": "Wir verbinden Forschung, Strategie, Kreation und Produktion zu marktorientierten Kampagnen für ganz Europa.",
+      "description": "Unser Team agiert bilingual, datengetrieben und kanalübergreifend – so entstehen Brand Experiences, die sowohl Headquarters als auch lokale Teams begeistern.",
+      "primaryCta": { "label": "Projekt starten", "href": "/kontakt" },
+      "secondaryCta": { "label": "Case Studies", "href": "/referenzen" },
+      "stats": [
+        { "label": "Jahre Partnerschaft", "value": "15+" },
+        { "label": "Live-Kampagnen p.a.", "value": "35" },
+        { "label": "Community Touchpoints", "value": "1.200+" }
+      ],
+      "visual": {
+        "image": "https://images.unsplash.com/photo-1529333166437-7750a6dd5a70?auto=format&fit=crop&w=900&q=80",
+        "alt": "Kreatives Team in einem modernen Studio",
+        "caption": "Studio Frankfurt · Hybrid Workshop",
+        "highlight": "Brand Experience Lab"
+      }
+    },
+    "about": {
+      "title": "Warum Lemon-Time?",
+      "description": "Seit 2008 begleiten wir internationale Unternehmen auf ihrem Weg zu kulturell relevanter Kommunikation. Wir denken holistisch, iterieren schnell und liefern messbaren Impact – vom Insight bis zur Skalierung.",
+      "items": [
+        {
+          "title": "Research & Strategy Hub",
+          "description": "Eigenes Insights-Team mit Zugang zu Diaspora Panels, Social Listening und qualitativen Labs."
+        },
+        {
+          "title": "Boutique Production",
+          "description": "Content Studios für Foto, Film und Audio inklusive Creator-Netzwerk in Frankfurt und Istanbul."
+        },
+        {
+          "title": "Experience Activation",
+          "description": "Campaigning, Media, Events und Partnerships koordiniert aus einer Hand."
+        },
+        {
+          "title": "Verlässliches Sparring",
+          "description": "Senior Expert:innen, die proaktiv beraten und Skalierung ermöglichen."
+        }
+      ],
+      "cta": { "label": "Mehr über uns", "href": "/ueber-uns" }
+    },
+    "services": {
+      "pretitle": "Leistungen",
+      "title": "Strategy, Creation & Activation",
+      "description": "Wir planen internationale Kampagnen modular, damit Corporate- und Local-Teams dieselbe Story erzählen – konsistent, relevant und compliant.",
+      "ctaLabel": "Mehr erfahren",
+      "items": [
+        {
+          "title": "Strategy & Insights",
+          "description": "Audience Maps, Journey Design, Positionierung und Messaging Frameworks.",
+          "icon": "strategy",
+          "href": "/leistungen#strategie"
+        },
+        {
+          "title": "Creative & Content",
+          "description": "Campaign Platforms, Social Media, Creator Relations, Motion & Photo.",
+          "icon": "campaign",
+          "href": "/leistungen#kampagnen"
+        },
+        {
+          "title": "Activation & Media",
+          "description": "Paid/Owned/Earned Orchestrierung, Events, Retail und Partnerships.",
+          "icon": "media",
+          "href": "/leistungen#media"
+        }
+      ]
+    },
+    "values": {
+      "title": "Unser Qualitätsversprechen",
+      "description": "Wir übersetzen Businessziele in kulturell relevante Stories und messen jeden Schritt.",
+      "items": [
+        {
+          "title": "Insight first",
+          "description": "Hypothesen werden mit Daten, Interviews und Social Listening verifiziert.",
+          "icon": "culture"
+        },
+        {
+          "title": "Design for trust",
+          "description": "Hochwertige Gestaltung, modulare Assets und starke Experience-Designs.",
+          "icon": "insights"
+        },
+        {
+          "title": "Reliable delivery",
+          "description": "Klare Verantwortlichkeiten, transparente Budgets und eingespielte Partner.",
+          "icon": "service"
+        }
+      ]
+    },
+    "spotlight": {
+      "title": "Einblicke in unsere Arbeit",
+      "description": "Echte Projekte, echte Menschen – regelmäßig dokumentiert von unserem Content-Team.",
+      "items": [
+        {
+          "title": "Community Lab Session",
+          "description": "Gemeinsame Co-Creation mit Kundenteams, Creators und Strateg:innen.",
+          "meta": "Frankfurt",
+          "media": "https://images.unsplash.com/photo-1557804506-669a67965ba0?auto=format&fit=crop&w=900&q=80"
+        },
+        {
+          "title": "On-Location Production",
+          "description": "Foto- und Filmproduktion mit lokalem Casting und kompaktem Setup.",
+          "meta": "Istanbul",
+          "media": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=900&q=80"
+        },
+        {
+          "title": "Brand Experience",
+          "description": "Live-Events mit immersiven Installationen und Social Coverage.",
+          "meta": "Berlin",
+          "media": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?auto=format&fit=crop&w=900&q=80"
+        }
+      ]
+    },
+    "references": {
+      "title": "Vertrauenspartner namhafter Brands",
+      "description": "Wir arbeiten für Finance, Tech, FMCG und Public Sector – abgestimmt mit internationalen Headquarters.",
+      "logos": [
+        { "name": "Anadolu Bank", "href": "#" },
+        { "name": "Turkcell Europe", "href": "#" },
+        { "name": "NIVEA", "href": "#" },
+        { "name": "Migros", "href": "#" },
+        { "name": "Türk Telekom", "href": "#" },
+        { "name": "Ülker", "href": "#" }
+      ]
+    },
+    "cta": {
+      "title": "Bereit für kulturelle Wirkung?",
+      "description": "Wir strukturieren Ihren Kick-off oder Pitch innerhalb von fünf Werktagen.",
+      "primary": { "label": "Kontakt aufnehmen", "href": "/kontakt" },
+      "secondary": { "label": "Referenzen ansehen", "href": "/referenzen" }
+    }
+  },
+  "tr": {
+    "hero": {
+      "badge": "Kültürel Strateji",
+      "title": "Çeşitli topluluklara güven veren markalar",
+      "subtitle": "Araştırma, strateji, kreatif üretim ve aktivasyonu tek ekip içinde buluşturuyoruz.",
+      "description": "Veriye dayalı yaklaşımımızla hem merkez ofislerin hem de yerel ekiplerin aynı dili konuşmasını sağlıyoruz.",
+      "primaryCta": { "label": "Proje başlat", "href": "/kontakt" },
+      "secondaryCta": { "label": "Case incele", "href": "/referenzen" },
+      "stats": [
+        { "label": "Yıllık ortaklık", "value": "15+" },
+        { "label": "Aktif kampanya", "value": "35" },
+        { "label": "Erişim noktası", "value": "1.200+" }
+      ],
+      "visual": {
+        "image": "https://images.unsplash.com/photo-1529333166437-7750a6dd5a70?auto=format&fit=crop&w=900&q=80",
+        "alt": "Stüdyoda çalışan yaratıcı ekip",
+        "caption": "Frankfurt Stüdyosu · Hibrit Atölye",
+        "highlight": "Brand Experience Lab"
+      }
+    },
+    "about": {
+      "title": "Neden Lemon-Time?",
+      "description": "2008'den beri uluslararası markalarla kültürel olarak uyumlu projeler tasarlıyoruz. Hızlı iterasyon, kıdemli danışmanlık ve ölçülebilir sonuçlar sunuyoruz.",
+      "items": [
+        {
+          "title": "Research & Strategy Hub",
+          "description": "Diaspora panelleri, sosyal dinleme ve niteliksel lablar ile içgörü üretimi."
+        },
+        {
+          "title": "Boutique Production",
+          "description": "Frankfurt ve İstanbul stüdyolarımızla fotoğraf, film ve audio prodüksiyonu."
+        },
+        {
+          "title": "Experience Activation",
+          "description": "Kampanya, medya, etkinlik ve iş birliklerini tek elden yönetiyoruz."
+        },
+        {
+          "title": "Güvenilir partnerlik",
+          "description": "Kıdemli ekip proaktif öneriler ve düzenli raporlama sağlar."
+        }
+      ],
+      "cta": { "label": "Ekibimizi tanıyın", "href": "/ueber-uns" }
+    },
+    "services": {
+      "pretitle": "Hizmetler",
+      "title": "Strateji, kreatif ve aktivasyon",
+      "description": "Modüler kampanya yapımız, merkez ekiplerle yerel birimlerin aynı hikâyeyi anlatmasını sağlar.",
+      "ctaLabel": "Detayları gör",
+      "items": [
+        {
+          "title": "Strateji & İçgörü",
+          "description": "Kitle segmentasyonu, yolculuk tasarımı, mesaj çatıları.",
+          "icon": "strategy",
+          "href": "/leistungen#strategie"
+        },
+        {
+          "title": "Kreatif & İçerik",
+          "description": "Kampanya konseptleri, sosyal medya, creator iş birlikleri, prodüksiyon.",
+          "icon": "campaign",
+          "href": "/leistungen#kampagnen"
+        },
+        {
+          "title": "Aktivasyon & Medya",
+          "description": "Paid/Owned/Earned orkestrasyonu, etkinlikler ve perakende çözümleri.",
+          "icon": "media",
+          "href": "/leistungen#media"
+        }
+      ]
+    },
+    "values": {
+      "title": "Çalışma prensibimiz",
+      "description": "İş hedeflerini kültürel içgörüyle birleştirip sonucu ölçüyoruz.",
+      "items": [
+        {
+          "title": "Önce içgörü",
+          "description": "Hipotezleri veri ve görüşmelerle doğrularız.",
+          "icon": "culture"
+        },
+        {
+          "title": "Güven tasarımı",
+          "description": "Premium tasarım dili ve güçlü deneyimler.",
+          "icon": "insights"
+        },
+        {
+          "title": "Şeffaf teslimat",
+          "description": "Net sorumluluklar, görünür bütçeler, hazır partner ağı.",
+          "icon": "service"
+        }
+      ]
+    },
+    "spotlight": {
+      "title": "Stüdyodan kareler",
+      "description": "Gerçek prodüksiyonlarımızdan fotoğraflar düzenli olarak güncellenir.",
+      "items": [
+        {
+          "title": "Community Lab Session",
+          "description": "Marka ekipleri, creator'lar ve stratejistler aynı masada.",
+          "meta": "Frankfurt",
+          "media": "https://images.unsplash.com/photo-1557804506-669a67965ba0?auto=format&fit=crop&w=900&q=80"
+        },
+        {
+          "title": "On-Location Production",
+          "description": "Yerel casting ve kompakt prodüksiyon akışı.",
+          "meta": "İstanbul",
+          "media": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=900&q=80"
+        },
+        {
+          "title": "Brand Experience",
+          "description": "Canlı etkinlik, immersif kurgu ve sosyal kapsama.",
+          "meta": "Berlin",
+          "media": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?auto=format&fit=crop&w=900&q=80"
+        }
+      ]
+    },
+    "references": {
+      "title": "Güveni kanıtlanmış markalar",
+      "description": "Finans, teknoloji, FMCG ve kamuda uluslararası ekiplerle çalışıyoruz.",
+      "logos": [
+        { "name": "Anadolu Bank", "href": "#" },
+        { "name": "Turkcell Europe", "href": "#" },
+        { "name": "NIVEA", "href": "#" },
+        { "name": "Migros", "href": "#" },
+        { "name": "Türk Telekom", "href": "#" },
+        { "name": "Ülker", "href": "#" }
+      ]
+    },
+    "cta": {
+      "title": "Brief'i birlikte şekillendirelim",
+      "description": "5 iş günü içinde başlangıç workshop'u veya teklif hazırlıyoruz.",
+      "primary": { "label": "Bizimle iletişime geç", "href": "/kontakt" },
+      "secondary": { "label": "Referansları incele", "href": "/referenzen" }
+    }
+  },
+  "en": {
+    "hero": {
+      "badge": "Cultural Strategy",
+      "title": "Brand experiences for diverse audiences",
+      "subtitle": "We unite research, strategy, creative and production to deliver work that scales across Europe.",
+      "description": "Our bilingual team acts as an extension of your marketing organisation – insight-driven, compliant and fast.",
+      "primaryCta": { "label": "Start a project", "href": "/kontakt" },
+      "secondaryCta": { "label": "See the work", "href": "/referenzen" },
+      "stats": [
+        { "label": "Years of partnership", "value": "15+" },
+        { "label": "Campaigns per year", "value": "35" },
+        { "label": "Touchpoints activated", "value": "1.2K+" }
+      ],
+      "visual": {
+        "image": "https://images.unsplash.com/photo-1529333166437-7750a6dd5a70?auto=format&fit=crop&w=900&q=80",
+        "alt": "Creative team collaborating in a studio",
+        "caption": "Frankfurt studio · Hybrid workshop",
+        "highlight": "Brand Experience Lab"
+      }
+    },
+    "about": {
+      "title": "Why Lemon-Time",
+      "description": "Since 2008 we have helped international brands build culturally fluent communication. We work end-to-end, iterate fast and obsess over measurable outcomes.",
+      "items": [
+        {
+          "title": "Research & Strategy Hub",
+          "description": "In-house insight team with diaspora panels, social listening and qualitative labs."
+        },
+        {
+          "title": "Boutique Production",
+          "description": "Photo, film and audio studios plus a vetted creator roster in Frankfurt and Istanbul."
+        },
+        {
+          "title": "Experience Activation",
+          "description": "Campaigning, media, events and partnerships managed by one multidisciplinary crew."
+        },
+        {
+          "title": "Senior partnership",
+          "description": "Direct access to experienced leads who challenge briefs and keep budgets on track."
+        }
+      ],
+      "cta": { "label": "Meet the team", "href": "/ueber-uns" }
+    },
+    "services": {
+      "pretitle": "Services",
+      "title": "Strategy, creative and activation",
+      "description": "Modular campaign architectures let HQ and local teams tell the same story with regional nuance.",
+      "ctaLabel": "Explore services",
+      "items": [
+        {
+          "title": "Strategy & Insights",
+          "description": "Audience mapping, journey design, positioning and messaging frameworks.",
+          "icon": "strategy",
+          "href": "/leistungen#strategie"
+        },
+        {
+          "title": "Creative & Content",
+          "description": "Campaign platforms, social media, creator relations, motion and photo.",
+          "icon": "campaign",
+          "href": "/leistungen#kampagnen"
+        },
+        {
+          "title": "Activation & Media",
+          "description": "Paid/Owned/Earned orchestration, events, retail and partnerships.",
+          "icon": "media",
+          "href": "/leistungen#media"
+        }
+      ]
+    },
+    "values": {
+      "title": "How we deliver",
+      "description": "We translate business goals into culturally relevant stories and measure what matters.",
+      "items": [
+        {
+          "title": "Insight first",
+          "description": "Hypotheses are validated through data, interviews and social listening.",
+          "icon": "culture"
+        },
+        {
+          "title": "Design for trust",
+          "description": "Premium craft, modular assets and experience design that feels human.",
+          "icon": "insights"
+        },
+        {
+          "title": "Reliable delivery",
+          "description": "Clear ownership, transparent budgets and proven partners in every market.",
+          "icon": "service"
+        }
+      ]
+    },
+    "spotlight": {
+      "title": "From the studio",
+      "description": "Real photography captured on set and during activations across Europe.",
+      "items": [
+        {
+          "title": "Community Lab Session",
+          "description": "Co-creation with client teams, creators and strategists.",
+          "meta": "Frankfurt",
+          "media": "https://images.unsplash.com/photo-1557804506-669a67965ba0?auto=format&fit=crop&w=900&q=80"
+        },
+        {
+          "title": "On-Location Production",
+          "description": "Agile film and photo crews with local casting support.",
+          "meta": "Istanbul",
+          "media": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=900&q=80"
+        },
+        {
+          "title": "Brand Experience",
+          "description": "Immersive live events with social-first coverage.",
+          "meta": "Berlin",
+          "media": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?auto=format&fit=crop&w=900&q=80"
+        }
+      ]
+    },
+    "references": {
+      "title": "Trusted by leading brands",
+      "description": "Finance, tech, FMCG and public institutions rely on our cross-cultural expertise.",
+      "logos": [
+        { "name": "Anadolu Bank", "href": "#" },
+        { "name": "Turkcell Europe", "href": "#" },
+        { "name": "NIVEA", "href": "#" },
+        { "name": "Migros", "href": "#" },
+        { "name": "Türk Telekom", "href": "#" },
+        { "name": "Ülker", "href": "#" }
+      ]
+    },
+    "cta": {
+      "title": "Ready for cultural impact?",
+      "description": "We design your kick-off, workshop or pitch roadmap within five business days.",
+      "primary": { "label": "Talk to us", "href": "/kontakt" },
+      "secondary": { "label": "View references", "href": "/referenzen" }
+    }
+  }
+}

@@ -1,0 +1,149 @@
+{
+	"de": {
+		"intro": {
+			"title": "Sprechen wir über Ihr Projekt",
+			"description": "Ob Markenstrategie, Kampagne oder Community Aktivierung – wir freuen uns über Ihre Nachricht. Schreiben Sie uns oder vereinbaren Sie direkt einen Termin."
+		},
+		"form": {
+			"title": "Kontaktformular",
+			"description": "Bitte teilen Sie uns einige Details mit, damit wir uns bestmöglich vorbereiten können. Wir antworten innerhalb von 48 Stunden.",
+			"privacyNote": "Mit dem Absenden stimmen Sie zu, dass wir Ihre Daten zur Bearbeitung Ihrer Anfrage speichern. Weitere Informationen finden Sie in unserer Datenschutzerklärung.",
+			"submitLabel": "Nachricht senden",
+			"fields": {
+				"name": "Name",
+				"email": "E-Mail",
+				"phone": "Telefon",
+				"company": "Unternehmen",
+				"message": "Projektbeschreibung"
+			}
+		},
+		"locations": [
+			{
+				"id": "frankfurt",
+				"name": "Head Office Frankfurt",
+				"address": "Hanauer Landstraße 204, 60314 Frankfurt am Main",
+				"phone": "+49 69 123 456 70",
+				"email": "hello@lemon-time.com",
+				"hours": "Montag bis Freitag, 09:00 – 18:00 Uhr",
+				"map": { "lat": 50.1115, "lng": 8.7207, "zoom": 14 }
+			},
+			{
+				"id": "istanbul",
+				"name": "Projektbüro Istanbul",
+				"address": "Kemankeş Karamustafa Paşa Mah. 12, 34425 İstanbul",
+				"phone": "+90 212 555 67 89",
+				"email": "istanbul@lemon-time.com",
+				"hours": "Montag bis Freitag, 10:00 – 19:00 Uhr",
+				"map": { "lat": 41.0242, "lng": 28.9784, "zoom": 13 }
+			}
+		],
+		"meta": {
+			"locationsHeading": "Standorte",
+			"socialHeading": "Social",
+			"socialDescription": "Folgen Sie uns für Einblicke in Projekte, Teamkultur und Events."
+		},
+		"socials": [
+			{ "label": "LinkedIn", "href": "https://www.linkedin.com/company/lemon-time" },
+			{ "label": "Instagram", "href": "https://www.instagram.com/lemon_time" },
+			{ "label": "YouTube", "href": "https://www.youtube.com/@lemontime" }
+		]
+	},
+	"tr": {
+		"intro": {
+			"title": "Projeniz hakkında konuşalım",
+			"description": "Marka stratejisi, kampanya veya topluluk aktivasyonu… Hangi alanda desteğe ihtiyacınız varsa ekibimiz yardım etmeye hazır."
+		},
+		"form": {
+			"title": "İletişim formu",
+			"description": "Projenizi kısaca anlatmanız bize hazırlık yapma imkânı verir. 48 saat içinde size geri döneriz.",
+			"privacyNote": "Formu göndererek verilerinizin talebinize yanıt vermek amacıyla işleneceğini kabul ediyorsunuz.",
+			"submitLabel": "Mesaj gönder",
+			"fields": {
+				"name": "İsim",
+				"email": "E-posta",
+				"phone": "Telefon",
+				"company": "Şirket",
+				"message": "Proje detayı"
+			}
+		},
+		"locations": [
+			{
+				"id": "frankfurt",
+				"name": "Frankfurt Ofis",
+				"address": "Hanauer Landstraße 204, 60314 Frankfurt am Main",
+				"phone": "+49 69 123 456 70",
+				"email": "hello@lemon-time.com",
+				"hours": "Pazartesi – Cuma, 09:00 – 18:00",
+				"map": { "lat": 50.1115, "lng": 8.7207, "zoom": 14 }
+			},
+			{
+				"id": "istanbul",
+				"name": "İstanbul Proje Ofisi",
+				"address": "Kemankeş Karamustafa Paşa Mah. 12, 34425 İstanbul",
+				"phone": "+90 212 555 67 89",
+				"email": "istanbul@lemon-time.com",
+				"hours": "Pazartesi – Cuma, 10:00 – 19:00",
+				"map": { "lat": 41.0242, "lng": 28.9784, "zoom": 13 }
+			}
+		],
+		"meta": {
+			"locationsHeading": "Ofisler",
+			"socialHeading": "Sosyal",
+			"socialDescription": "Projelerimiz, ekip kültürü ve etkinlikler için bizi takip edin."
+		},
+		"socials": [
+			{ "label": "LinkedIn", "href": "https://www.linkedin.com/company/lemon-time" },
+			{ "label": "Instagram", "href": "https://www.instagram.com/lemon_time" },
+			{ "label": "YouTube", "href": "https://www.youtube.com/@lemontime" }
+		]
+	},
+	"en": {
+		"intro": {
+			"title": "Let’s discuss your next brief",
+			"description": "Share your idea, challenge, or campaign ambition. We are happy to set up a chemistry call and explore how we can contribute."
+		},
+		"form": {
+			"title": "Contact form",
+			"description": "Tell us a little about your project and time frame. We usually respond within two working days.",
+			"privacyNote": "By submitting you agree that we may store your details to respond to your enquiry. See our privacy policy for details.",
+			"submitLabel": "Send message",
+			"fields": {
+				"name": "Name",
+				"email": "Email",
+				"phone": "Phone",
+				"company": "Company",
+				"message": "Project outline"
+			}
+		},
+		"locations": [
+			{
+				"id": "frankfurt",
+				"name": "Frankfurt HQ",
+				"address": "Hanauer Landstraße 204, 60314 Frankfurt am Main, Germany",
+				"phone": "+49 69 123 456 70",
+				"email": "hello@lemon-time.com",
+				"hours": "Mon–Fri, 09:00 – 18:00 CET",
+				"map": { "lat": 50.1115, "lng": 8.7207, "zoom": 14 }
+			},
+			{
+				"id": "istanbul",
+				"name": "Istanbul Project Hub",
+				"address": "Kemankeş Karamustafa Paşa Mah. 12, 34425 Istanbul, Türkiye",
+				"phone": "+90 212 555 67 89",
+				"email": "istanbul@lemon-time.com",
+				"hours": "Mon–Fri, 10:00 – 19:00 TRT",
+				"map": { "lat": 41.0242, "lng": 28.9784, "zoom": 13 }
+			}
+		],
+		"meta": {
+			"locationsHeading": "Studios",
+			"socialHeading": "Social",
+			"socialDescription": "Follow us for work-in-progress, team culture and event highlights."
+		},
+		"socials": [
+			{ "label": "LinkedIn", "href": "https://www.linkedin.com/company/lemon-time" },
+			{ "label": "Instagram", "href": "https://www.instagram.com/lemon_time" },
+			{ "label": "YouTube", "href": "https://www.youtube.com/@lemontime" }
+		]
+	}
+}

@@ -1,0 +1,286 @@
+{
+	"de": {
+		"intro": {
+			"title": "Ethnomarketing von Insight bis Impact",
+			"description": "Unsere Leistungen decken den gesamten Marketing-Funnel ab. Wir kombinieren strategisches Denken mit kreativer Exzellenz und einem tiefen Verständnis für die türkische Community in Europa."
+		},
+		"capabilities": [
+			{
+				"id": "strategie",
+				"title": "Strategie & Beratung",
+				"description": "Wir entwickeln Positionierungen, Botschaften und Kommunikationsrouten, die kulturell anschlussfähig sind.",
+				"outcomes": [
+					"Cultural & Community Insights",
+					"Brand Positioning & Messaging Frameworks",
+					"Go-to-Market- & Channel-Strategien",
+					"Workshop-Moderation & Stakeholder Alignment"
+				]
+			},
+			{
+				"id": "creation",
+				"title": "Kreation & Content",
+				"description": "Unser Kreativteam produziert Geschichten, die bewegen – von Social Snackable bis TVC.",
+				"outcomes": [
+					"Kampagnen-Konzepte & Storylines",
+					"Social Media & Always-on Content",
+					"Influencer- & Creator-Kooperationen",
+					"Foto-, Audio- und Filmproduktion"
+				]
+			},
+			{
+				"id": "media",
+				"title": "Media & Aktivierung",
+				"description": "Wir planen und orchestrieren Medienkanäle sowie Community-Events für maximale Relevanz.",
+				"outcomes": [
+					"Media-Strategie & Booking (TV, Radio, OOH, Digital)",
+					"Community Events & Pop-up Experiences",
+					"Retail & POS Aktivierungen",
+					"Sponsoring & Partnerschaften"
+				]
+			},
+			{
+				"id": "analytics",
+				"title": "Insights & Evaluation",
+				"description": "Wir messen, lernen und optimieren in Echtzeit. So sichern wir nachhaltige Wirkung.",
+				"outcomes": [
+					"KPI-Definition & Dashboarding",
+					"Brand Lift & Sentiment Tracking",
+					"Community Panels und Fokusgruppen",
+					"Reporting & Learnings Workshops"
+				]
+			}
+		],
+		"process": [
+			{
+				"step": 1,
+				"title": "Discover & Define",
+				"description": "Kick-off, Zieldefinition, Analyse bestehender Daten, Setup von Research & KPIs."
+			},
+			{
+				"step": 2,
+				"title": "Design",
+				"description": "Konzeption und strategische Ausarbeitung: Positionierung, Botschaften, Touchpoints."
+			},
+			{
+				"step": 3,
+				"title": "Create",
+				"description": "Kreation und Produktion von Assets – modular, mehrsprachig und kanalübergreifend."
+			},
+			{
+				"step": 4,
+				"title": "Activate",
+				"description": "Media-Planung, Community-Management und Kampagnenaussteuerung."
+			},
+			{
+				"step": 5,
+				"title": "Measure & Grow",
+				"description": "Performance-Monitoring, Reporting, Iteration und Skalierung erfolgreicher Maßnahmen."
+			}
+		],
+		"caseHighlights": [
+			{
+				"client": "Turkcell Europe",
+				"industry": "Telekommunikation",
+				"summary": "Markteinführung einer neuen Tarifwelt mit Fokus auf Second Generation Türk:innen in Deutschland.",
+				"results": [
+					"+42 % Neukunden in der Kernzielgruppe",
+					"5 Mio. Social Impressions in 6 Wochen",
+					"Community Conversion Rate +18 %"
+				]
+			},
+			{
+				"client": "NIVEA",
+				"industry": "FMCG / Beauty",
+				"summary": "Cultural Relevance Kampagne für eine limitierte Pflegeserie während des Ramadan.",
+				"results": [
+					"88 % positive Sentiments",
+					"Top-3 Share-of-Voice in der Zielgruppe",
+					"Verkaufsplus von 24 % in türkischen Supermärkten"
+				]
+			}
+		]
+	},
+	"tr": {
+		"intro": {
+			"title": "Etnomarketing için uçtan uca çözümler",
+			"description": "Stratejiden prodüksiyona, medya planlamasından ölçüme kadar tüm süreçleri yönetiyoruz. Türk topluluğunun gerçeklerini bilen ekiplerle markanıza güç katıyoruz."
+		},
+		"capabilities": [
+			{
+				"id": "strategie",
+				"title": "Strateji & Danışmanlık",
+				"description": "Marka konumlandırma ve iletişim stratejilerini kültürel bağlama göre şekillendiriyoruz.",
+				"outcomes": [
+					"Kültürel içgörü ve topluluk analizleri",
+					"Mesaj çerçeveleri ve iletişim dili",
+					"Kanal stratejileri ve medya planı",
+					"Workshop facilitation ve stakeholder alignment"
+				]
+			},
+			{
+				"id": "creation",
+				"title": "Kreatif & İçerik",
+				"description": "Hikâye anlatımı, sosyal medya, influencer iş birlikleri ve prodüksiyonu tek ekipten sunuyoruz.",
+				"outcomes": [
+					"Kampanya konseptleri ve copywriting",
+					"Sosyal medya içerikleri",
+					"Influencer planlama ve yönetim",
+					"Fotoğraf ve video prodüksiyon"
+				]
+			},
+			{
+				"id": "media",
+				"title": "Medya & Aktivasyon",
+				"description": "En doğru medyayı seçer, toplulukla buluşma noktaları yaratırız.",
+				"outcomes": [
+					"TV, radyo, dijital ve OOH medya planı",
+					"Topluluk etkinlikleri ve deneyim tasarımı",
+					"Perakende ve satış noktası aktivasyonları",
+					"Sponsorluk ve iş birlikleri"
+				]
+			},
+			{
+				"id": "analytics",
+				"title": "Analiz & Ölçüm",
+				"description": "Performansı takip eder, içgörüleri yeni aksiyonlara dönüştürürüz.",
+				"outcomes": [
+					"KPI belirleme ve dashboard kurulumu",
+					"Brand lift, sentiment ve awareness ölçümü",
+					"Topluluk panelleri ve araştırma",
+					"Raporlama ve optimizasyon"
+				]
+			}
+		],
+		"process": [
+			{ "step": 1, "title": "Keşfet", "description": "Brief, hedefler ve mevcut verilerin değerlendirilmesi." },
+			{ "step": 2, "title": "Tasarım", "description": "Kampanya stratejisi, mesaj çerçevesi ve kanal planı." },
+			{ "step": 3, "title": "Üret", "description": "İçerik üretimi, kreatif adaptasyon, yerelleştirme." },
+			{ "step": 4, "title": "Aktive et", "description": "Medya yayılımı, topluluk ve influencer yönetimi." },
+			{ "step": 5, "title": "Ölç & Büyüt", "description": "Performans takibi, raporlama, optimizasyon." }
+		],
+		"caseHighlights": [
+			{
+				"client": "Turkcell Europe",
+				"industry": "Telekom",
+				"summary": "Yeni tarife lansmanı ile ikinci nesil Türk-Almanlara ulaştık.",
+				"results": [
+					"%42 yeni müşteri artışı",
+					"6 haftada 5 milyon sosyal erişim",
+					"Community conversion oranı %18 arttı"
+				]
+			},
+			{
+				"client": "NIVEA",
+				"industry": "FMCG / Beauty",
+				"summary": "Ramazan dönemine özel sınırlı seri için kültürel olarak uyumlu kampanya.",
+				"results": [
+					"%88 pozitif duygu",
+					"Zielgruppe içinde top-3 Share-of-Voice",
+					"Tükçe marketlerde %24 satış artışı"
+				]
+			}
+		]
+	},
+	"en": {
+		"intro": {
+			"title": "Insight-led ethnomarketing services",
+			"description": "We deliver integrated programmes for brands that want to speak to the Turkish community authentically – based on data, driven by creativity."
+		},
+		"capabilities": [
+			{
+				"id": "strategy",
+				"title": "Strategy & Advisory",
+				"description": "Culturally anchored positioning, messaging, and go-to-market strategies.",
+				"outcomes": [
+					"Market & community insight programmes",
+					"Messaging playbooks and tone of voice",
+					"Channel & media strategy",
+					"Stakeholder workshops and alignment"
+				]
+			},
+			{
+				"id": "creative",
+				"title": "Creative & Content",
+				"description": "Narratives, formats, and productions that resonate across languages and platforms.",
+				"outcomes": [
+					"Campaign concepts and storytelling",
+					"Social & always-on programmes",
+					"Influencer & creator collaborations",
+					"In-house photo, video, and audio production"
+				]
+			},
+			{
+				"id": "activation",
+				"title": "Media & Activation",
+				"description": "Integrated media orchestration combined with community-first experiences.",
+				"outcomes": [
+					"TV, radio, digital, and OOH planning",
+					"Community events & experiential activations",
+					"Retail & shopper marketing",
+					"Sponsorships & partnerships"
+				]
+			},
+			{
+				"id": "measurement",
+				"title": "Measurement & Insights",
+				"description": "Performance analytics, sentiment tracking, and optimisation frameworks.",
+				"outcomes": [
+					"KPI frameworks & dashboards",
+					"Brand lift & perception studies",
+					"Diaspora research panels",
+					"Actionable reporting & growth playbooks"
+				]
+			}
+		],
+		"process": [
+			{
+				"step": 1,
+				"title": "Discover",
+				"description": "Immersion workshops, data review, research planning, KPI setup."
+			},
+			{
+				"step": 2,
+				"title": "Design",
+				"description": "Strategic concept, channel architecture, narrative and format planning."
+			},
+			{
+				"step": 3,
+				"title": "Create",
+				"description": "Localized content development, production, amplification assets."
+			},
+			{
+				"step": 4,
+				"title": "Activate",
+				"description": "Media deployment, community engagement, real-time optimisation."
+			},
+			{
+				"step": 5,
+				"title": "Measure",
+				"description": "Performance tracking, insight extraction, next-wave recommendations."
+			}
+		],
+		"caseHighlights": [
+			{
+				"client": "Turkcell Europe",
+				"industry": "Telecommunications",
+				"summary": "Launch of a new prepaid proposition tailored to second-generation Turkish consumers.",
+				"results": [
+					"+42% customer acquisition QoQ",
+					"5M organic & paid social impressions",
+					"+18% conversion rate uplift across key cities"
+				]
+			},
+			{
+				"client": "NIVEA",
+				"industry": "FMCG / Beauty",
+				"summary": "Ramadan campaign celebrating cultural rituals and modern self-care.",
+				"results": [
+					"88% positive sentiment",
+					"Top-3 Share of Voice among targeted diaspora audiences",
+					"+24% sales in ethnic retail channels"
+				]
+			}
+		]
+	}
+}
+

@@ -1,0 +1,167 @@
+{
+	"de": {
+		"intro": {
+			"title": "Werde Teil von Lemon-Time",
+			"description": "Wir sind ein interdisziplinäres Team aus Strateg:innen, Kreativen, Media-Expert:innen und Community-Spezialist:innen. Gemeinsam entwickeln wir Kampagnen, die kulturelle Vielfalt sichtbar machen. Du möchtest mit uns Zukunft gestalten? Dann freuen wir uns auf dich."
+		},
+		"values": [
+			{
+				"title": "Kulturelle Diversität",
+				"description": "Unser Team spiegelt die Communities wider, die wir ansprechen. Wir lernen voneinander und wachsen zusammen."
+			},
+			{
+				"title": "Mut & Ownership",
+				"description": "Wir geben Raum für Ideen, experimentieren gern und tragen Verantwortung für unsere Projekte."
+			},
+			{
+				"title": "Weiterentwicklung",
+				"description": "Gezielte Trainings, Mentoring und individuelle Learning Budgets sind bei uns selbstverständlich."
+			}
+		],
+		"benefits": [
+			{
+				"title": "Hybrides Arbeiten",
+				"description": "Remote-Option + Studio in Frankfurt am Main mit Content- und Podcast-Space."
+			},
+			{
+				"title": "Community-Tage",
+				"description": "Zusätzliche freie Tage zu religiösen Feiertagen (z. B. Bayram)."
+			},
+			{
+				"title": "Mobilitätsbudget",
+				"description": "ÖPNV-Ticket oder Bike-Leasing – du entscheidest."
+			},
+			{
+				"title": "Weiterbildung",
+				"description": "Jährliches Budget für Konferenzen, Sprachkurse und Fachtrainings."
+			}
+		],
+		"openings": [
+			{
+				"id": "senior-strategist",
+				"title": "Senior Strategist Ethnomarketing (w/m/d)",
+				"location": "Frankfurt am Main / Remote",
+				"type": "Vollzeit",
+				"description": "Du entwickelst kanalübergreifende Strategien, führst Workshops mit Kund:innen und bist Sparringspartner:in für Kreation und Media.",
+				"responsibilities": [
+					"Konzeption und Steuerung von Strategieprozessen",
+					"Leitung von Kundenworkshops und Pitch-Präsentationen",
+					"Entwicklung von Insights und Opportunity Maps",
+					"Enge Zusammenarbeit mit Creative und Media Team"
+				],
+				"requirements": [
+					"Mindestens 5 Jahre Erfahrung in Strategie/Planning",
+					"Sehr gute Deutsch- und Türkischkenntnisse",
+					"Sicherer Umgang mit Marktforschung und Analytics",
+					"Stark in Storytelling und Präsentation"
+				],
+				"benefits": [
+					"Jährliches Weiterbildungsbudget von 2.000 €",
+					"Flexible Arbeitszeiten und Remote-Setup",
+					"Beteiligung am Agenturbonus"
+				]
+			},
+			{
+				"id": "content-producer",
+				"title": "Content Producer Social & Video (w/m/d)",
+				"location": "Frankfurt am Main",
+				"type": "Vollzeit",
+				"description": "Du planst und produzierst crossmediale Content-Formate – von Reels über Interviews bis Podcast.",
+				"responsibilities": [
+					"Redaktionsplanung und Ideenentwicklung",
+					"Dreh- und Postproduktion von Social-Content",
+					"Zusammenarbeit mit Creator:innen und Community",
+					"Qualitätssicherung und Datenanalyse"
+				],
+				"requirements": [
+					"3+ Jahre Erfahrung in Content-Produktion",
+					"Erfahrung mit Adobe CC / DaVinci Resolve",
+					"Verständnis für TikTok-, Instagram- und YouTube-Mechaniken",
+					"Interesse an Kultur, Musik, Lifestyle"
+				],
+				"benefits": [
+					"Eigener Zugang zum Content-Studio",
+					"Budget für Equipment & Software",
+					"Teilnahme an Festivals und Branchen-Events"
+				]
+			}
+		],
+		"emptyState": {
+			"title": "Aktuell keine passende Stelle dabei?",
+			"description": "Wir wachsen kontinuierlich und freuen uns über Initiativbewerbungen. Erzähl uns, wie du Lemon-Time verstärken möchtest.",
+			"cta": { "label": "Initiativ bewerben", "href": "mailto:jobs@lemon-time.com" }
+		}
+	},
+	"tr": {
+		"intro": {
+			"title": "Lemon-Time ekibine katıl",
+			"description": "Strateji, kreatif, medya ve topluluk yönetiminden oluşan disiplinlerarası bir ekibiz. Kültürel çeşitliliği iletişimle buluşturmak istiyoruz. Sen de bu yolculuğun parçası olmak istersen başvurunu bekliyoruz."
+		},
+		"values": [
+			{ "title": "Çeşitlilik", "description": "Topluluklarımızı yansıtan bir ekip kurduk; birbirimizden öğreniyoruz." },
+			{ "title": "Sorumluluk", "description": "Projelere sahip çıkar, fikirlerimizi cesurca paylaşırız." },
+			{ "title": "Gelişim", "description": "Mentorluk programları ve kişisel eğitim bütçeleriyle büyümeni destekleriz." }
+		],
+		"benefits": [
+			{ "title": "Hibrit çalışma", "description": "Frankfurt ofis + remote seçenekleri." },
+			{ "title": "Kültürel izin", "description": "Bayram ve özel günler için ekstra izin günleri." },
+			{ "title": "Mobilite desteği", "description": "Toplu taşıma bileti ya da bisiklet leasing desteği." },
+			{ "title": "Eğitim bütçesi", "description": "Konferans, dil kursu ve sertifika programları." }
+		],
+		"openings": [],
+		"emptyState": {
+			"title": "Şu an açık pozisyon yok",
+			"description": "Yine de bizimle çalışmak istersen, kendini tanıtan bir e-posta gönder. Yeni roller açıldığında ilk seninle iletişime geçeriz.",
+			"cta": { "label": "CV gönder", "href": "mailto:jobs@lemon-time.com" }
+		}
+	},
+	"en": {
+		"intro": {
+			"title": "Join the Lemon-Time crew",
+			"description": "We are strategists, creatives, producers, and community experts committed to culturally intelligent marketing. If you care about diversity, storytelling, and impact, we’d love to hear from you."
+		},
+		"values": [
+			{ "title": "Diversity", "description": "We believe in teams that reflect the communities we serve." },
+			{ "title": "Ownership", "description": "You will have room to experiment, take responsibility, and shape processes." },
+			{ "title": "Learning", "description": "Access to mentoring, training budget, and cross-functional knowledge sharing." }
+		],
+		"benefits": [
+			{ "title": "Flexible working", "description": "Hybrid setup with studio space in Frankfurt am Main." },
+			{ "title": "Cultural leave", "description": "Additional days off for major cultural or religious holidays." },
+			{ "title": "Mobility budget", "description": "Public transport ticket or bike leasing." },
+			{ "title": "Learning stipend", "description": "Yearly allowance for conferences and professional courses." }
+		],
+		"openings": [
+			{
+				"id": "account-director",
+				"title": "Account Director Ethnomarketing",
+				"location": "Hybrid (Frankfurt / Remote EU)",
+				"type": "Full-time",
+				"description": "Lead brand partnerships, orchestrate integrated campaigns, and advise clients on growth opportunities within the Turkish diaspora.",
+				"responsibilities": [
+					"Manage key accounts and orchestrate cross-functional teams",
+					"Translate business objectives into actionable campaign plans",
+					"Steer budget, timing, and quality assurance",
+					"Identify upselling opportunities and new business leads"
+				],
+				"requirements": [
+					"7+ years agency or brand-side experience",
+					"Fluent in English; German or Turkish a plus",
+					"Strong stakeholder management skills",
+					"Experience with integrated campaigns (media, digital, events)"
+				],
+				"benefits": [
+					"Performance bonus scheme",
+					"Annual training budget of €2,500",
+					"Access to industry events across Europe"
+				]
+			}
+		],
+		"emptyState": {
+			"title": "Didn’t find the right role?",
+			"description": "Share your portfolio or CV with us. We’re always open to meeting passionate talent for future opportunities.",
+			"cta": { "label": "Send your profile", "href": "mailto:jobs@lemon-time.com" }
+		}
+	}
+}
+

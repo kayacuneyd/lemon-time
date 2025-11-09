@@ -1,0 +1,39 @@
+{
+	"brand": {
+		"name": "Lemon-Time GmbH",
+		"logo": {
+			"src": "https://www.lemon-time.com/.cm4all/mediadb/EK2022/LemonTime_Logo_2022_web_logo.png",
+			"alt": "Lemon-Time GmbH Logo"
+		},
+		"tagline": "Cross-cultural brand studio für Europa"
+	},
+	"contact": {
+		"phone": "+49 69 123 456 70",
+		"email": "hello@lemon-time.com",
+		"address": {
+			"street": "Hanauer Landstraße 204",
+			"postalCode": "60314",
+			"city": "Frankfurt am Main",
+			"country": "Deutschland"
+		}
+	},
+	"socials": [
+		{ "label": "LinkedIn", "href": "https://www.linkedin.com/company/lemon-time" },
+		{ "label": "Instagram", "href": "https://www.instagram.com/lemon_time" },
+		{ "label": "YouTube", "href": "https://www.youtube.com/@lemontime" }
+	],
+	"footer": {
+		"quickLinks": [
+			{ "href": "/ueber-uns", "key": "about" },
+			{ "href": "/leistungen", "key": "services" },
+			{ "href": "/referenzen", "key": "references" },
+			{ "href": "/karriere", "key": "career" },
+			{ "href": "/kontakt", "key": "contact" }
+		],
+		"legalLinks": [
+			{ "href": "/impressum", "label": "Impressum" },
+			{ "href": "/datenschutz", "label": "Datenschutz" },
+			{ "href": "/cookie-policy", "label": "Cookie Policy" }
+		]
+	}
+}

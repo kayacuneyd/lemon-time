@@ -1,0 +1,248 @@
+{
+	"de": {
+		"intro": {
+			"title": "Wir verbinden Marken mit Menschen",
+			"body": [
+				"Lemon-Time ist die erste deutsch-türkische Full-Service-Agentur, die sich vollständig auf Ethnomarketing spezialisiert hat. Seit unserer Gründung in Frankfurt am Main begleiten wir Unternehmen, die die türkische Community in Europa respektvoll und auf Augenhöhe erreichen möchten.",
+				"Unser Team vereint Strategie, Kreation, Media und Produktion. Wir denken zweisprachig, verstehen kulturelle Codes und agieren als Brücke zwischen Marke und Community."
+			]
+		},
+		"mission": {
+			"title": "Unsere Mission",
+			"body": [
+				"Wir glauben, dass kulturelle Vielfalt Marken erfolgreicher macht. Deshalb unterstützen wir Unternehmen dabei, zielgruppengerechte Geschichten zu erzählen, Vertrauen aufzubauen und langfristige Beziehungen zu gestalten."
+			],
+			"values": [
+				{
+					"title": "Authentizität",
+					"description": "Wir übersetzen Markenbotschaften so, dass sie kulturell anschlussfähig und glaubwürdig bleiben."
+				},
+				{
+					"title": "Partnerschaft",
+					"description": "Wir verstehen uns als strategische Mitdenker:innen und begleiten Projekte von der Idee bis zur Auswertung."
+				},
+				{
+					"title": "Verantwortung",
+					"description": "Wir sorgen für respektvolle Repräsentation, transparente Prozesse und nachhaltige Wirkung."
+				}
+			]
+		},
+		"timeline": [
+			{
+				"year": "2008",
+				"title": "Gründung von Lemon-Time",
+				"description": "Start als Boutique-Agentur in Frankfurt mit Fokus auf Ethnomarketing für türkische Medienhäuser."
+			},
+			{
+				"year": "2013",
+				"title": "Erstes europaweites Kampagnen-Setup",
+				"description": "Roll-out einer Telekommunikationskampagne in Deutschland, Österreich und den Niederlanden."
+			},
+			{
+				"year": "2018",
+				"title": "Aufbau eigener Content- & Produktionsunits",
+				"description": "Inhouse-Studios für Film, Audio und Social Media erweitern unser Leistungsportfolio."
+			},
+			{
+				"year": "2022",
+				"title": "Data & Insights Lab",
+				"description": "Launch unseres Research Offers inklusive Community Panels und Trendmonitoring."
+			}
+		],
+		"team": {
+			"title": "Das Team hinter Lemon-Time",
+			"description": "Ein multidisziplinäres Team aus Strategie, Kreation, Media und Community Management.",
+			"members": [
+				{
+					"name": "Ayşe Yılmaz",
+					"role": "Managing Director",
+					"bio": "Gründerin von Lemon-Time, 18 Jahre Erfahrung in Markenstrategie und interkultureller Kommunikation."
+				},
+				{
+					"name": "Deniz Karaca",
+					"role": "Creative Director",
+					"bio": "Steuert Konzept- und Designteams und übersetzt Insights in visuelle Plattformen sowie Experience-Design."
+				},
+				{
+					"name": "Elif Demir",
+					"role": "Head of Media & Insights",
+					"bio": "Leitet Media-Planung, Daten-Analysen und Community Research."
+				},
+				{
+					"name": "Kenan Kaya",
+					"role": "Community Partnerships",
+					"bio": "Verknüpft Marken mit Kulturinstitutionen, Vereinen und Opinion Leadern in der Diaspora."
+				}
+			]
+		},
+		"video": {
+			"title": "Showreel 2024",
+			"description": "Ein Einblick in Kampagnen, Produktionen und Community-Aktivierungen der letzten Projekte.",
+			"url": "https://www.youtube.com/embed/dQw4w9WgXcQ"
+		}
+	},
+	"tr": {
+		"intro": {
+			"title": "Markalar ile topluluk arasında köprüyüz",
+			"body": [
+				"Lemon-Time, Almanya’da kurulmuş ilk Türk-Alman etnomarketing ajansıdır. Avrupa’daki Türk topluluğuna saygılı ve etkili bir şekilde ulaşmak isteyen markalarla çalışıyoruz.",
+				"Strateji, kreatif, medya ve prodüksiyon uzmanlarını tek çatı altında topluyor, iki dilli ve kültürel olarak yetkin bir ekip sunuyoruz."
+			]
+		},
+		"mission": {
+			"title": "Misyonumuz",
+			"body": [
+				"Kültürel çeşitliliğin markaları güçlendirdiğine inanıyoruz. Markaların toplulukla bağ kurmasına, güven oluşturmasına ve uzun vadeli ilişkiler geliştirmesine destek oluyoruz."
+			],
+			"values": [
+				{
+					"title": "Otantiklik",
+					"description": "Marka mesajlarını kültürel bağlama uygun, güvenilir bir dile dönüştürürüz."
+				},
+				{
+					"title": "Ortaklık",
+					"description": "Markalarla stratejik iş birliği yapar, projeleri baştan sona birlikte yürütürüz."
+				},
+				{
+					"title": "Sorumluluk",
+					"description": "Temsil ve iletişimde saygıyı, şeffaflığı ve sürdürülebilirliği önemseriz."
+				}
+			]
+		},
+		"timeline": [
+			{
+				"year": "2008",
+				"title": "Lemon-Time kuruldu",
+				"description": "Frankfurt’ta Türk medya kurumlarına odaklanan butik ajans olarak yola çıktık."
+			},
+			{
+				"year": "2013",
+				"title": "İlk Avrupa çapı kampanya",
+				"description": "Telekom sektöründe Almanya, Avusturya ve Hollanda’da entegre iletişim gerçekleştirdik."
+			},
+			{
+				"year": "2018",
+				"title": "İçerik & prodüksiyon stüdyosu",
+				"description": "Video, fotoğraf ve sosyal medya içeriklerini in-house üretmeye başladık."
+			},
+			{
+				"year": "2022",
+				"title": "Data & Insights Lab",
+				"description": "Topluluk panelleri ve trend izleme hizmetlerimizi devreye aldık."
+			}
+		],
+		"team": {
+			"title": "Lemon-Time ekibi",
+			"description": "Strateji, kreatif, medya ve topluluk yönetimi disiplinlerinden uzmanlarla çalışıyoruz.",
+			"members": [
+				{
+					"name": "Ayşe Yılmaz",
+					"role": "Genel Müdür",
+					"bio": "Marka stratejisi ve kültürlerarası iletişimde 18 yıllık deneyim."
+				},
+				{
+					"name": "Deniz Karaca",
+					"role": "Creative Director",
+					"bio": "Konsept ve tasarım ekiplerini yönetir, içgörüleri deneyim odaklı görsel platformlara dönüştürür."
+				},
+				{
+					"name": "Elif Demir",
+					"role": "Medya & Insights Direktörü",
+					"bio": "Medya planlama, veri analizi ve topluluk araştırmalarını yönetiyor."
+				},
+				{
+					"name": "Kenan Kaya",
+					"role": "Topluluk İş Birlikleri",
+					"bio": "Markaları kültür kurumları ve kanaat önderleriyle buluşturuyor."
+				}
+			]
+		},
+		"video": {
+			"title": "Showreel 2024",
+			"description": "Son projelerimizden kampanya, prodüksiyon ve etkinlik örnekleri.",
+			"url": "https://www.youtube.com/embed/dQw4w9WgXcQ"
+		}
+	},
+	"en": {
+		"intro": {
+			"title": "We bridge brands and communities",
+			"body": [
+				"Lemon-Time is a Frankfurt-based agency specialising in ethnomarketing for the Turkish diaspora. We support organisations that want to engage the community with respect, relevance, and long-term commitment.",
+				"Our in-house team covers strategy, creative, media, and production. Being bilingual and bicultural allows us to translate insights into action quickly."
+			]
+		},
+		"mission": {
+			"title": "Our purpose",
+			"body": [
+				"We help brands unlock the potential of cultural diversity. By aligning business goals with community expectations, we foster meaningful conversations and lasting relationships."
+			],
+			"values": [
+				{
+					"title": "Authenticity",
+					"description": "We adapt brand narratives without losing their essence, ensuring cultural resonance."
+				},
+				{
+					"title": "Collaboration",
+					"description": "We co-create with our clients and act as strategic partners throughout the journey."
+				},
+				{
+					"title": "Responsibility",
+					"description": "We prioritise respectful representation, transparency, and sustainable impact."
+				}
+			]
+		},
+		"timeline": [
+			{
+				"year": "2008",
+				"title": "Agency launch",
+				"description": "Founded in Frankfurt with a focus on ethnomarketing for Turkish media outlets."
+			},
+			{
+				"year": "2013",
+				"title": "First cross-European rollout",
+				"description": "Delivered a multi-market telecom campaign across DACH and Benelux."
+			},
+			{
+				"year": "2018",
+				"title": "Production capabilities",
+				"description": "Established in-house studios for video, photo, and social content."
+			},
+			{
+				"year": "2022",
+				"title": "Insights lab",
+				"description": "Introduced community panels, trend monitoring, and proprietary research formats."
+			}
+		],
+		"team": {
+			"title": "Meet the team",
+			"description": "Strategists, creatives, media specialists, and community experts working seamlessly together.",
+			"members": [
+				{
+					"name": "Ayşe Yılmaz",
+					"role": "Managing Director",
+					"bio": "18 years of experience in brand strategy and intercultural communications."
+				},
+				{
+					"name": "Deniz Karaca",
+					"role": "Creative Director",
+					"bio": "Leads concept and design teams, translating insights into visual platforms and experience design."
+				},
+				{
+					"name": "Elif Demir",
+					"role": "Head of Media & Insights",
+					"bio": "Responsible for media orchestration, analytics, and qualitative research."
+				},
+				{
+					"name": "Kenan Kaya",
+					"role": "Community Partnerships Lead",
+					"bio": "Cultivates relationships with cultural institutions, associations, and advocates."
+				}
+			]
+		},
+		"video": {
+			"title": "Showreel 2024",
+			"description": "A snapshot of recent campaigns, productions, and community activations.",
+			"url": "https://www.youtube.com/embed/dQw4w9WgXcQ"
+		}
+	}
+}

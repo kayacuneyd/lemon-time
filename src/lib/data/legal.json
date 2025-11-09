@@ -1,0 +1,259 @@
+{
+	"de": {
+		"imprint": {
+			"title": "Impressum",
+			"sections": [
+				{
+					"title": "Angaben gemäß § 5 TMG",
+					"content": [
+						"Lemon-Time GmbH",
+						"Hanauer Landstraße 204",
+						"60314 Frankfurt am Main",
+						"Deutschland"
+					]
+				},
+				{
+					"title": "Vertreten durch",
+					"content": [
+						"Geschäftsführerin: Ayşe Yılmaz",
+						"Registergericht: Amtsgericht Frankfurt",
+						"Registernummer: HRB 123456",
+						"Umsatzsteuer-ID: DE 999 999 999"
+					]
+				},
+				{
+					"title": "Kontakt",
+					"content": [
+						"Telefon: +49 69 123 456 70",
+						"E-Mail: hello@lemon-time.com"
+					]
+				}
+			]
+		},
+		"privacy": {
+			"title": "Datenschutzerklärung",
+			"sections": [
+				{
+					"title": "1. Verantwortliche Stelle",
+					"content": [
+						"Lemon-Time GmbH, Hanauer Landstraße 204, 60314 Frankfurt am Main, ist verantwortlich für die Verarbeitung personenbezogener Daten auf dieser Website."
+					]
+				},
+				{
+					"title": "2. Verarbeitete Daten",
+					"content": [
+						"Wir verarbeiten Kontaktdaten (Name, E-Mail, Telefonnummer), Inhaltsdaten (Nachrichten), Nutzungsdaten (zugreifende Systeme) und Meta-Daten (Zeitstempel) zur Bereitstellung unserer Leistungen.",
+						"Die Verarbeitung erfolgt auf Grundlage von Art. 6 Abs. 1 lit. b DSGVO (Vertragserfüllung) bzw. Art. 6 Abs. 1 lit. a DSGVO (Einwilligung)."
+					]
+				},
+				{
+					"title": "3. Rechte der betroffenen Personen",
+					"content": [
+						"Sie haben das Recht auf Auskunft, Berichtigung, Löschung, Einschränkung, Datenübertragbarkeit sowie Widerspruch.",
+						"Kontakt: privacy@lemon-time.com"
+					]
+				},
+				{
+					"title": "4. Auftragsverarbeitung & Dritte",
+					"content": [
+						"Wir arbeiten mit Hosting- und Analytics-Anbietern zusammen, die personenbezogene Daten ausschließlich in unserem Auftrag und innerhalb der EU verarbeiten."
+					]
+				}
+			]
+		},
+		"cookies": {
+			"title": "Cookie-Richtlinie",
+			"sections": [
+				{
+					"title": "1. Notwendige Cookies",
+					"content": [
+						"Essentielle Cookies sorgen für Grundfunktionen wie Seitennavigation und Zugriff auf geschützte Bereiche. Ohne diese Cookies kann die Website nicht funktionieren."
+					]
+				},
+				{
+					"title": "2. Statistik & Marketing",
+					"content": [
+						"Analyse-Cookies helfen uns zu verstehen, wie Besucher:innen mit unserer Website interagieren. Marketing-Cookies werden nur nach ausdrücklicher Einwilligung gesetzt."
+					]
+				},
+				{
+					"title": "3. Cookie-Einstellungen",
+					"content": [
+						"Sie können Ihre Präferenzen jederzeit im Cookie-Banner anpassen. Bereits gesetzte Cookies lassen sich in den Browsereinstellungen löschen."
+					]
+				}
+			]
+		}
+	},
+	"tr": {
+		"imprint": {
+			"title": "Künye",
+			"sections": [
+				{
+					"title": "Şirket Bilgileri",
+					"content": [
+						"Lemon-Time GmbH",
+						"Hanauer Landstraße 204",
+						"60314 Frankfurt am Main",
+						"Almanya"
+					]
+				},
+				{
+					"title": "Temsil",
+					"content": [
+						"Genel Müdür: Ayşe Yılmaz",
+						"Kayıt: Amtsgericht Frankfurt, HRB 123456",
+						"KDV No: DE 999 999 999"
+					]
+				},
+				{
+					"title": "İletişim",
+					"content": [
+						"Telefon: +49 69 123 456 70",
+						"E-Posta: hello@lemon-time.com"
+					]
+				}
+			]
+		},
+		"privacy": {
+			"title": "Gizlilik Politikası",
+			"sections": [
+				{
+					"title": "1. Veri Sorumlusu",
+					"content": [
+						"Lemon-Time GmbH, Hanauer Landstraße 204, 60314 Frankfurt am Main, web sitemizdeki kişisel verilerin işlenmesinden sorumludur."
+					]
+				},
+				{
+					"title": "2. İşlenen Veriler",
+					"content": [
+						"İletişim formu üzerinden isim, e-posta, telefon ve mesaj bilgileri; kullanım verileri; log bilgileri.",
+						"Veriler, hukuki yükümlülük ve meşru menfaat kapsamında işlenir."
+					]
+				},
+				{
+					"title": "3. Haklarınız",
+					"content": [
+						"Erişim, düzeltme, silme, işlemeyi kısıtlama, veri taşınabilirliği ve itiraz haklarına sahipsiniz.",
+						"İletişim: privacy@lemon-time.com"
+					]
+				},
+				{
+					"title": "4. Üçüncü Taraflar",
+					"content": [
+						"Veriler, sadece sözleşmeli hizmet sağlayıcılarımız tarafından ve Avrupa Birliği sınırları içinde işlenir."
+					]
+				}
+			]
+		},
+		"cookies": {
+			"title": "Çerez Politikası",
+			"sections": [
+				{
+					"title": "1. Zorunlu Çerezler",
+					"content": [
+						"Bu çerezler web sitesinin temel işlevleri için gereklidir. Kaldırılmaları durumunda site düzgün çalışmaz."
+					]
+				},
+				{
+					"title": "2. Analiz & Pazarlama",
+					"content": [
+						"Analiz çerezleri site kullanımını anlamamıza yardımcı olur. Pazarlama çerezleri yalnızca onay sonrasında aktive edilir."
+					]
+				},
+				{
+					"title": "3. Ayarlar",
+					"content": [
+						"Tercihlerinizi cookie banner üzerinden her zaman güncelleyebilirsiniz."
+					]
+				}
+			]
+		}
+	},
+	"en": {
+		"imprint": {
+			"title": "Legal Notice",
+			"sections": [
+				{
+					"title": "Company Details",
+					"content": [
+						"Lemon-Time GmbH",
+						"Hanauer Landstraße 204",
+						"60314 Frankfurt am Main",
+						"Germany"
+					]
+				},
+				{
+					"title": "Represented by",
+					"content": [
+						"Managing Director: Ayşe Yılmaz",
+						"Commercial Register: Local Court Frankfurt, HRB 123456",
+						"VAT ID: DE 999 999 999"
+					]
+				},
+				{
+					"title": "Contact",
+					"content": [
+						"Phone: +49 69 123 456 70",
+						"Mail: hello@lemon-time.com"
+					]
+				}
+			]
+		},
+		"privacy": {
+			"title": "Privacy Policy",
+			"sections": [
+				{
+					"title": "1. Controller",
+					"content": [
+						"Lemon-Time GmbH, Hanauer Landstraße 204, 60314 Frankfurt am Main, is the controller pursuant to Art. 4(7) GDPR."
+					]
+				},
+				{
+					"title": "2. Data We Process",
+					"content": [
+						"We process contact data (name, email, phone), enquiry details, usage data (IP address, device), and cookies to ensure website functionality and respond to requests.",
+						"Legal bases: Art. 6(1)(b) GDPR (contract), Art. 6(1)(a) GDPR (consent), Art. 6(1)(f) GDPR (legitimate interest)."
+					]
+				},
+				{
+					"title": "3. Your Rights",
+					"content": [
+						"You have the right to access, rectify, erase, restrict processing, data portability, and object at any time.",
+						"Contact: privacy@lemon-time.com"
+					]
+				},
+				{
+					"title": "4. Processors",
+					"content": [
+						"We use trusted processors for hosting, analytics, and communication services. Contracts ensure GDPR-compliant processing."
+					]
+				}
+			]
+		},
+		"cookies": {
+			"title": "Cookie Policy",
+			"sections": [
+				{
+					"title": "1. Essential Cookies",
+					"content": [
+						"Necessary cookies are required for core functionality such as navigation and access to secure areas."
+					]
+				},
+				{
+					"title": "2. Analytics & Marketing",
+					"content": [
+						"We only set non-essential cookies after explicit consent. You can withdraw your consent at any time."
+					]
+				},
+				{
+					"title": "3. Managing Cookies",
+					"content": [
+						"Change your preferences via the cookie banner or by clearing cookies in your browser."
+					]
+				}
+			]
+		}
+	}
+}
+

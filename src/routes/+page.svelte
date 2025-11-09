@@ -46,23 +46,16 @@
 			<div class="relative aspect-square w-full max-w-[440px]">
 				<div class="absolute -inset-6 rounded-[50%] bg-gradient-to-br from-brand-primary/70 via-brand-primary/30 to-brand-secondary/50 blur-3xl dark:from-brand-primary/40 dark:via-brand-secondary/30 dark:to-brand-primary/30"></div>
 				<div class="relative flex h-full w-full flex-col items-center justify-center gap-6">
-					<div class="hero-lemon-wrapper">
-						<div class="hero-lemon">
-							<div class="hero-lemon__leaf hero-lemon__leaf--left"></div>
-							<div class="hero-lemon__leaf hero-lemon__leaf--right"></div>
-							<div class="hero-lemon__stem"></div>
-							<div class="hero-lemon__body">
-								<div class="hero-lemon__shine hero-lemon__shine--one"></div>
-								<div class="hero-lemon__shine hero-lemon__shine--two"></div>
-								<div class="hero-lemon__dots hero-lemon__dots--top"></div>
-								<div class="hero-lemon__dots hero-lemon__dots--bottom"></div>
-							</div>
-							<div class="hero-lemon__logo">
-								<img src={brand.logo.src} alt={brand.logo.alt} loading="lazy" />
-							</div>
-						</div>
-						<div class="hero-lemon__shadow" aria-hidden="true"></div>
+					<div class="hero-lemon">
+						<img
+							src="/images/lemon-bgwhite.png"
+							alt="Lemon-Time hero illustration"
+							class="hero-lemon__img"
+							loading="lazy"
+							decoding="async"
+						/>
 					</div>
+					<div class="hero-lemon__shadow" aria-hidden="true"></div>
 					<div class="pointer-events-none rounded-3xl border border-white/25 bg-white/85 px-6 py-4 text-left text-sm font-semibold text-brand-secondary shadow-lg backdrop-blur dark:border-brand-primary/30 dark:bg-brand-dark/80 dark:text-neutral-50">
 						<p class="text-xs font-medium uppercase tracking-[0.35em] text-brand-secondary/70 dark:text-neutral-200/80">
 							{$home.hero.visual.highlight}

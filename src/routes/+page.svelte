@@ -47,40 +47,21 @@
 				<div class="absolute -inset-6 rounded-[50%] bg-gradient-to-br from-brand-primary/70 via-brand-primary/30 to-brand-secondary/50 blur-3xl dark:from-brand-primary/40 dark:via-brand-secondary/30 dark:to-brand-primary/30"></div>
 				<div class="relative flex h-full w-full flex-col items-center justify-center gap-6">
 					<div class="hero-lemon-wrapper">
-						<svg
-							class="hero-lemon"
-							viewBox="0 0 200 140"
-							role="presentation"
-							aria-hidden="true"
-						>
-							<defs>
-								<linearGradient id="lemonFill" x1="0%" y1="0%" x2="100%" y2="100%">
-									<stop offset="0%" stop-color="#fdf6aa" />
-									<stop offset="60%" stop-color="#f2d84c" />
-									<stop offset="100%" stop-color="#c8e86d" />
-								</linearGradient>
-								<linearGradient id="lemonStroke" x1="0%" y1="0%" x2="100%" y2="100%">
-									<stop offset="0%" stop-color="#fff8c4" />
-									<stop offset="100%" stop-color="#b0c63c" />
-								</linearGradient>
-							</defs>
-							<path
-								d="M130 10c-20-8-35-10-50-8-15-2-30 0-50 8C10 25 2 45 2 70s8 45 28 60c20 8 35 10 50 8 15 2 30 0 50-8 20-15 28-35 28-60s-8-45-28-60Z"
-								fill="url(#lemonFill)"
-								stroke="url(#lemonStroke)"
-								stroke-width="5"
-							/>
-							<path
-								class="hero-lemon-pulse"
-								d="M130 10c-20-8-35-10-50-8-15-2-30 0-50 8C10 25 2 45 2 70s8 45 28 60c20 8 35 10 50 8 15 2 30 0 50-8 20-15 28-35 28-60s-8-45-28-60Z"
-								fill="none"
-								stroke="rgba(255,255,255,0.35)"
-								stroke-width="2"
-							/>
-						</svg>
-						<div class="hero-lemon-logo">
-							<img src={brand.logo.src} alt={brand.logo.alt} loading="lazy" />
+						<div class="hero-lemon">
+							<div class="hero-lemon__leaf hero-lemon__leaf--left"></div>
+							<div class="hero-lemon__leaf hero-lemon__leaf--right"></div>
+							<div class="hero-lemon__stem"></div>
+							<div class="hero-lemon__body">
+								<div class="hero-lemon__shine hero-lemon__shine--one"></div>
+								<div class="hero-lemon__shine hero-lemon__shine--two"></div>
+								<div class="hero-lemon__dots hero-lemon__dots--top"></div>
+								<div class="hero-lemon__dots hero-lemon__dots--bottom"></div>
+							</div>
+							<div class="hero-lemon__logo">
+								<img src={brand.logo.src} alt={brand.logo.alt} loading="lazy" />
+							</div>
 						</div>
+						<div class="hero-lemon__shadow" aria-hidden="true"></div>
 					</div>
 					<div class="pointer-events-none rounded-3xl border border-white/25 bg-white/85 px-6 py-4 text-left text-sm font-semibold text-brand-secondary shadow-lg backdrop-blur dark:border-brand-primary/30 dark:bg-brand-dark/80 dark:text-neutral-50">
 						<p class="text-xs font-medium uppercase tracking-[0.35em] text-brand-secondary/70 dark:text-neutral-200/80">
